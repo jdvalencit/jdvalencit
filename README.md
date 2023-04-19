@@ -4,13 +4,14 @@
 <picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 250px></picture>
 - 🧩 I'm a computer science student at Eafit University.
 - 🏁 I'm excited to continue exploring new technologies and expanding my knowledge as a developer.
-- 🔭 Currently learning Go.
+- 🔭 I'm currently learning Go.
 - 😄 I’m currently open for an Intern or a new job opportunity, this is my [Linkedin.](https://www.linkedin.com/in/juandavidvt)
 
 ## Skills
 - 💻 Rust, Go, Python, Java.
-- 💽 Rocket, Fiber, Django.
-- 📕 AWS, GCP, Azure DevOps, Docker, MySql, PostgreSQL.
+- 💿 Rocket, Fiber, Django.
+- 📚 Tokio, Procfs, 
+- 🚀 AWS, GCP, Azure DevOps, Docker, MySql, PostgreSQL.
 
 <!--
 ## Skills
