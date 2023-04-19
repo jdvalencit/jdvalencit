@@ -1,4 +1,4 @@
-## Hi there, i'm Juan David 👋 
+## Hi there, I'm Juan David 👋 
 ## <gif><img src = "https://user-images.githubusercontent.com/61478711/232941562-ba75e046-b11e-4327-b272-f9a36834fc9b.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 250px></picture>
@@ -10,7 +10,7 @@
 ## Skills
 - 💻 Rust, Go, Python, Java.
 - 💿 Rocket, Fiber, Django.
-- 📚 Tokio, Procfs, 
+- 📚 Tokio, Procfs. 
 - 🚀 AWS, GCP, Azure DevOps, Docker, MySql, PostgreSQL.
 
 <!--
