@@ -5,7 +5,7 @@
 - 🧩 I'm a computer science student at Eafit University.
 - 🏁 I'm excited to continue exploring new technologies and expanding my knowledge as a developer.
 - 🔭 Currently learning Go.
-- 😄 I’m currently open for an Intern or a new job opportunity, this is [Linkedin.](https://www.linkedin.com/in/juandavidvt)
+- 😄 I’m currently open for an Intern or a new job opportunity, this is my [Linkedin.](https://www.linkedin.com/in/juandavidvt)
 
 ## Skills
 - 💻 Rust, Go, Python, Java.
