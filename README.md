@@ -3,12 +3,11 @@
 
 <picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 250px></picture>
 - 🧩 I'm a Computer Science student at EAFIT University.
-- 🏁 I'm excited to continue exploring new technologies and expanding my knowledge as a developer.
-- 🔭 I'm currently learning Go.
-- 😄 I’m currently open for an internship or a new job opportunity, this is my [Linkedin.](https://www.linkedin.com/in/juandavidvt)
+- 🏁 I'm excited to continue exploring new technologies and expanding my knowledge as a developer and DevOps.
+- 🔭 I'm currently learning Go, Kubernetes.
+- 😄 This is my [Linkedin.](https://www.linkedin.com/in/juandavidvt)
 
 ## Skills
-- 💻 Rust, Go, Python, Java.
-- 💿 Rocket, Fiber, Django.
-- 📚 Tokio, Procfs. 
-- 🚀 AWS, GCP, Azure DevOps, Docker, MySql, PostgreSQL.
+- 💻 Go, Rust, Python, Java, HTML, CSS.
+- 💿 Rocket, Fiber, Django, Spring.
+- 🚀 AWS, GCP, Docker, Terraform, Ansible, CloudFormation, Jenkins, MySql, PostgreSQL.
